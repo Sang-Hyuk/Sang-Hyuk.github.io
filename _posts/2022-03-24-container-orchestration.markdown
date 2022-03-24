@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "컨테이너 오케스트레이션"
+layout: category
+title:  "컨테이너 오케스트레이션 (2)"
 date:   2022-03-24 17:21:14 +0900
 categories: Kubernetes
 ---
